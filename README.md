@@ -45,3 +45,47 @@ All my hands-on implementation screenshots are available in the
 
 This repository documents my AWS learning journey and practical
 experience with cloud and AI services.
+## Hands-On Activities
+
+### Compute
+- Created and managed EC2 instances
+- Practiced Linux and Windows instances
+- Configured Auto Scaling
+- Explored Load Balancer
+
+### Storage
+- Created and managed S3 buckets
+
+### Security
+- Practiced IAM users and permissions
+- Explored IAM user-to-user and user-to-service access
+
+### Monitoring
+- Explored Amazon CloudWatch
+
+### Messaging
+- Practiced Amazon SQS and Amazon SNS
+- Explored SQS and SNS integration
+
+### AI Services
+- Explored Amazon Bedrock
+- Practiced Amazon Polly
+
+### Cost Management
+- Explored AWS Billing and Cost Management
+
+## Screenshots
+
+All hands-on implementation screenshots are available in the
+`screenshots` folder.
+
+## Skills Practiced
+
+- AWS Cloud Computing
+- Cloud Security
+- Identity and Access Management
+- Compute and Storage
+- Cloud Monitoring
+- Messaging Services
+- Generative AI
+- Cloud Cost Management
