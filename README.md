@@ -89,3 +89,28 @@ All hands-on implementation screenshots are available in the
 - Messaging Services
 - Generative AI
 - Cloud Cost Management
+## AWS Hands-On Activities
+
+| AWS Service | Hands-On Work |
+|---|---|
+| Amazon EC2 | Created and managed EC2 instances |
+| Amazon S3 | Created and managed S3 buckets |
+| AWS IAM | Practiced users and permissions |
+| AWS Lambda | Explored serverless functions |
+| Amazon CloudWatch | Practiced cloud monitoring |
+| Elastic Load Balancing | Explored load balancing |
+| Auto Scaling | Practiced automatic scaling |
+| Amazon SQS | Practiced message queuing |
+| Amazon SNS | Practiced notification services |
+| Amazon Bedrock | Explored generative AI |
+| Amazon Polly | Explored text-to-speech |
+| AWS Billing | Explored cost and billing management |
+
+## Evidence
+
+Screenshots of my hands-on activities are available in the
+`screenshots` folder.
+
+## Repository
+
+GitHub: [AWS Hands-On](https://github.com/Poornima11-jk/AWS-hands-on)
